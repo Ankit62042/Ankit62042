@@ -1,4 +1,8 @@
  <img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/09/giphy-13-1.gif">
+ 
+ 
+ 
+ 
 ### Hi there 👋
 I'm Ankit Kumar currently doing B.tech in Computer Science and Buisness System.I'm a open source enthusiast and always exited to work and contribute in open Source.I love Development and UI/UX design. 
 
