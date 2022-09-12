@@ -1,3 +1,4 @@
+[![MasterHead](https://www.freecodecamp.org/news/content/images/2021/10/github-on-the-hunt-for-a-new-diversity-lead-developers-techworld-github-universe-png-800_450.png)](https://github.com/Ankit62042)
 ### Hi there 👋
 I'm Ankit Kumar currently doing B.tech in Computer Science and Buisness System.I'm a open source enthusiast and always exited to work and contribute in open Source.I love Development and UI/UX design. 
 <!--
@@ -14,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love exploring astronomy❤️
 -->
-[![MasterHead](https://www.freecodecamp.org/news/content/images/2021/10/github-on-the-hunt-for-a-new-diversity-lead-developers-techworld-github-universe-png-800_450.png)](https://github.com/Ankit62042)
