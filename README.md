@@ -12,6 +12,9 @@ I'm Ankit Kumar currently doing B.tech in Computer Science and Buisness System.I
 - ⚡ Fun fact: I love exploring astronomy❤️
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit62042)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankit62042)](https://git.io/streak-stats)
 
 <!--
