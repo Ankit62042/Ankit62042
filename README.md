@@ -1,4 +1,4 @@
-[![MasterHead](https://www.freecodecamp.org/news/content/images/2021/10/github-on-the-hunt-for-a-new-diversity-lead-developers-techworld-github-universe-png-800_450.png)](https://github.com/Ankit62042)
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/851/501/292/minimalism-programming-code-wallpaper-preview.jpg)](https://github.com/Ankit62042)
 ### Hi there 👋
 I'm Ankit Kumar currently doing B.tech in Computer Science and Buisness System.I'm a open source enthusiast and always exited to work and contribute in open Source.I love Development and UI/UX design. 
 
