@@ -14,7 +14,17 @@ I'm Ankit Kumar currently doing B.tech in Computer Science and Buisness System.I
 - ⚡ Fun fact: I love exploring astronomy❤️
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit62042)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Ankit62042&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Ankit62042&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit62042&show_icons=true" />
+</picture>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit62042)](https://github.com/anuraghazra/github-readme-stats)
